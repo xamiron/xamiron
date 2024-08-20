@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sabuj Kumar Modak</h1>
+<h1 align="center">Hi, I'm Sabuj Kumar Modak</h1>
 <h3 align="center">A dynamic and skilled professional in Software Testing and Quality Assurance, dedicated to enhancing software reliability and contributing to the overall quality standards. Passionate about leveraging expertise to safeguard digital landscapes and mitigate security threats effectively.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xamiron&label=Profile%20views&color=0e75b6&style=flat" alt="xamiron" /> </p>
