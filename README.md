@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm <span style="color:#1a73e8;">Sabuj Kumar Modak</span></h1>
-<h3 align="center">🚀 Junior QA Engineer | Functional | API | Security | Automation Testing</h3>
+<h3 align="center"> Junior QA Engineer | Functional | API | Security | Automation Testing</h3>
 
 <p align="center">
 QA Engineer with ~2 years of hands-on experience in <b>Functional, API, Security</b> & <b>Automation Testing</b>.<br>
