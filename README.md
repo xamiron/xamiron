@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Junior QA Engineer | Functional | API | Security | Automation Testing</h3>
 
 <p align="center">
-QA Engineer with ~2 years of hands-on experience in <b>Functional, API, Security</b> & <b>Automation Testing</b>.<br>
+💻 QA Engineer with ~2 years of hands-on experience in <b>Functional, API, Security</b> & <b>Automation Testing</b>.<br>
 🧠 Skilled in <b>Requirement Analysis</b>, <b>Test Case Design</b>, and <b>Selenium Automation</b>.<br>
 🤝 Agile-ready, collaborating closely with developers for smooth releases.<br>
 🎯 Passionate about improving product quality and learning modern automation frameworks.
@@ -46,17 +46,10 @@ QA Engineer with ~2 years of hands-on experience in <b>Functional, API, Security
 <h2 align="center">📊 GitHub Insights</h2>
 
 <p align="center">
-  <!-- Dual-mode GitHub stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=xamiron&show_icons=true&hide_border=true&theme=light" height="160" alt="GitHub Stats (Light Mode)" media="(prefers-color-scheme: light)" />
-  <img src="https://github-readme-stats.vercel.app/api?username=xamiron&show_icons=true&hide_border=true&theme=dark" height="160" alt="GitHub Stats (Dark Mode)" media="(prefers-color-scheme: dark)" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xamiron&layout=compact&hide_border=true&theme=light" height="160" alt="Top Languages (Light Mode)" media="(prefers-color-scheme: light)" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xamiron&layout=compact&hide_border=true&theme=dark" height="160" alt="Top Languages (Dark Mode)" media="(prefers-color-scheme: dark)" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=xamiron&hide_border=true&theme=light" height="160" alt="GitHub Streak (Light Mode)" media="(prefers-color-scheme: light)" />
-  <img src="https://streak-stats.demolab.com/?user=xamiron&hide_border=true&theme=dark" height="160" alt="GitHub Streak (Dark Mode)" media="(prefers-color-scheme: dark)" />
+  <!-- Using a theme that looks good in both light and dark modes -->
+  <img src="https://github-readme-stats.vercel.app/api?username=xamiron&show_icons=true&hide_border=true&theme=tokyonight" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xamiron&layout=compact&hide_border=true&theme=tokyonight" height="160" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com/?user=xamiron&hide_border=true&theme=tokyonight" height="160" alt="GitHub Streak" />
 </p>
 
 ---
@@ -64,31 +57,31 @@ QA Engineer with ~2 years of hands-on experience in <b>Functional, API, Security
 <h2 align="center">🏆 Achievements & Highlights</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=xamiron&theme=flat&no-frame=true&margin-w=10&margin-h=10&row=1" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=xamiron&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10&row=1" alt="GitHub Trophies" />
 </p>
 
 <p align="center">
 <table align="center">
 <tr>
   <td align="center" width="50%">
-    <img src="https://img.icons8.com/color/96/000000/test-passed.png" width="60"><br>
+    <img src="https://img.icons8.com/color/96/000000/test-passed.png" width="60" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"><br>
     <b>QA Excellence Award</b><br>
     Top-quality release of <b>Brac Bank Web Platform</b> (250+ dynamic pages)
   </td>
   <td align="center" width="50%">
-    <img src="https://img.icons8.com/color/96/000000/code.png" width="60"><br>
+    <img src="https://img.icons8.com/color/96/000000/code.png" width="60" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"><br>
     <b>Automation Contributor</b><br>
     Built <b>Selenium scripts</b>, reducing manual testing by 45%
   </td>
 </tr>
 <tr>
   <td align="center" width="50%">
-    <img src="https://img.icons8.com/color/96/000000/network.png" width="60"><br>
+    <img src="https://img.icons8.com/color/96/000000/network.png" width="60" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"><br>
     <b>Security Testing Lead</b><br>
     Conducted <b>vulnerability & penetration testing</b> for banking platforms
   </td>
   <td align="center" width="50%">
-    <img src="https://img.icons8.com/color/96/000000/reading.png" width="60"><br>
+    <img src="https://img.icons8.com/color/96/000000/reading.png" width="60" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"><br>
     <b>QA Author & Blogger</b><br>
     Writing <b>QA eBook in Bangla</b> and publishing tutorials on <b>Medium</b>
   </td>
