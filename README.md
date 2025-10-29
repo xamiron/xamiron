@@ -1,5 +1,9 @@
 <h1 align="center">Hi, I'm Sabuj Kumar Modak</h1>
-<h3 align="center">A dynamic and skilled professional in Software Testing and Quality Assurance, dedicated to enhancing software reliability and contributing to the overall quality standards. Passionate about leveraging expertise to safeguard digital landscapes and mitigate security threats effectively.</h3>
+<h3 align="center">Junior QA Engineer with almost 2 years of hands on experience in functional, API, security, and automation testing.
+Skilled in requirement analysis, designing and executing test cases, and developing automation scripts with
+Selenium. Experienced in Agile Scrum, working closely with developers for smooth releases. Passionate about
+improving product quality and learning modern automation frameworks.
+.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xamiron&label=Profile%20views&color=0e75b6&style=flat" alt="xamiron" /> </p>
 
