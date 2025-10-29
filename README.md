@@ -1,25 +1,80 @@
-<h1 align="center">Hi, I'm Sabuj Kumar Modak</h1>
-<h3 align="center">Junior QA Engineer with almost 2 years of hands on experience in functional, API, security, and automation testing.
-Skilled in requirement analysis, designing and executing test cases, and developing automation scripts with
-Selenium. Experienced in Agile Scrum, working closely with developers for smooth releases. Passionate about
-improving product quality and learning modern automation frameworks.
-.</h3>
+<h1 align="center">👋 Hi, I'm <span style="color:#0078ff;">Sabuj Kumar Modak</span></h1>
+<h3 align="center">🚀 Junior QA Engineer | Functional | API | Security | Automation Testing</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xamiron&label=Profile%20views&color=0e75b6&style=flat" alt="xamiron" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xamiron" alt="xamiron" /></a> </p>
-
-- 📫 How to reach me *sabuj.modak.qa@gmail.com*
-- 💬 Medium Profile: *https://xamiron.medium.com/*
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/xamiron" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="xamiron" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sabuj-modak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sabuj-modak" height="30" width="40" /></a>
-<a href="https://medium.com/@xamiron" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@xamiron" height="30" width="40" /></a>
+<p align="center">
+💻 2 years of hands-on experience ensuring quality, reliability, and performance in web applications.<br>
+🔍 Skilled in test case design, requirement analysis, and automation using Selenium.<br>
+🤝 Experienced in Agile Scrum, collaborating closely with developers for smooth product releases.<br>
+🌱 Passionate about continuous learning and building modern QA automation frameworks.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xamiron&show_icons=true&locale=en&layout=compact" alt="xamiron" /></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=xamiron&label=Profile%20views&color=brightgreen&style=for-the-badge" alt="xamiron" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=xamiron&theme=onestar&margin-w=10&margin-h=10" alt="GitHub Trophy" />
+  </a>
+</p>
+
+---
+
+### 📬 Contact & Profiles
+
+- 📧 **Email:** [sabuj.modak.qa@gmail.com](mailto:sabuj.modak.qa@gmail.com)  
+- ✍️ **Medium Blog:** [xamiron.medium.com](https://xamiron.medium.com/)  
+
+---
+
+### 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://twitter.com/xamiron" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" height="40" />
+  </a>
+  <a href="https://linkedin.com/in/sabuj-modak" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" />
+  </a>
+  <a href="https://medium.com/@xamiron" target="_blank">
+    <img src="https://skillicons.dev/icons?i=medium" alt="Medium" height="40" />
+  </a>
+</p>
+
+---
+
+### 🧰 Languages & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,selenium,postman,git,linux,html,css,js,mysql,mongodb,figma" /><br>
+</p>
+
+---
+
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=xamiron&show_icons=true&theme=react&hide_border=true" height="150" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xamiron&layout=compact&theme=react&hide_border=true" height="150" alt="Top Languages" />
+</p>
+
+---
+
+### 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=xamiron&theme=onedark&row=1&column=6" alt="Trophies" />
+</p>
+
+---
+
+### 💡 Fun Fact
+<p align="center">
+✨ “Quality is never an accident; it is always the result of intelligent effort.” — John Ruskin ✨
+</p>
+
+---
+
+⭐ **From [xamiron](https://github.com/xamiron)**
