@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Junior QA Engineer | Functional | API | Security | Automation Testing</h3>
 
 <p align="center">
-💻 QA Engineer with ~2 years of hands-on experience in <b>Functional, API, Security</b> & <b>Automation Testing</b>.<br>
+QA Engineer with ~2 years of hands-on experience in <b>Functional, API, Security</b> & <b>Automation Testing</b>.<br>
 🧠 Skilled in <b>Requirement Analysis</b>, <b>Test Case Design</b>, and <b>Selenium Automation</b>.<br>
 🤝 Agile-ready, collaborating closely with developers for smooth releases.<br>
 🎯 Passionate about improving product quality and learning modern automation frameworks.
