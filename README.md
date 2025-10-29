@@ -49,7 +49,7 @@
   <!-- Using a theme that looks good in both light and dark modes -->
   <img src="https://github-readme-stats.vercel.app/api?username=xamiron&show_icons=true&hide_border=true&theme=tokyonight" height="160" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xamiron&layout=compact&hide_border=true&theme=tokyonight" height="160" alt="Top Languages" />
-  <img src="https://streak-stats.demolab.com/?user=xamiron&hide_border=true&theme=tokyonight" height="160" alt="GitHub Streak" />
+
 </p>
 
 ---
